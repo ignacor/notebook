@@ -1,0 +1,82 @@
+#hierroxd{
+    background-image: url(./imagenes/hierroxd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+        border-style: solid;
+        border-color: red;
+}
+
+#broncexd{
+    background-image: url(./imagenes/broncexd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#plataxd{
+    background-image: url(./imagenes/silver\ xd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#oroxd{
+    background-image: url(./imagenes/oroxd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#platinoxd{
+    background-image: url(./imagenes/platinoxd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#diamantexd{
+    background-image: url(./imagenes/diamond_3.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#ascendentexd{
+    background-image: url(./imagenes/ascendentexd.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#inmortalxd{
+    background-image: url(./imagenes/radiantexd.webp);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
+
+#radiantexd{
+    background-image: url(./imagenes/radiant_1.c5f2624.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+}
